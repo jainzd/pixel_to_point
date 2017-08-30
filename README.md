@@ -1,7 +1,7 @@
 # pixel_to_point
-Este geoproceso ha sido desarrollada en el Servicio Nacional de Geología y Minería de Chile (http://http://www.sernageomin.cl/), específicamente en la Unidad de Sistemas de Información Geológico para la Unidad de Sensores Remotos. A petición de Paula Olea (paula.olea@sernageomin.cl) ha sido compartido a público.
+Este geoproceso ha sido desarrollado en el Servicio Nacional de Geología y Minería de Chile (http://http://www.sernageomin.cl/), específicamente en la Unidad de Sistemas de Información Geológico para la Unidad de Sensores Remotos. A petición de Paula Olea (paula.olea@sernageomin.cl) ha sido compartido a público.
 
-El geoproceso responde a los siguientes requerimientos funcionales y no funcionales:
+El geoproceso responde a los siguientes requerimientos funcionales y no funcionales planteados:
 * Despliegue de la geometría de puntos con nuevos campos que representan la fecha y hora de captura de cada imagen, llevada a horario local.
 * El Geoproceso deberá asignar la referencia espacial si estas no tuviesen. Cabe destacar que el sistema de referencia asignado será WGS84 en coordenadas geográficas.
 * La nueva capa solo debe llevar un campo de la capa original de puntos a elección del usuario.
